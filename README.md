@@ -4,4 +4,4 @@
 * ### All the steps of the code that include data preprocessing and cleaning, Exploratory Data Analysis and finally Predictive Modelling have been clearly documented for your reference
 * ### Thank you for visiting my repository
 
-## For any Questions/Queries kindly reach me at yashrandive.datascience@gmail.com
+## For any Questions/Queries kindly reach me at yr243@njit.edu
