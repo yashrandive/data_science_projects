@@ -6,7 +6,7 @@ The dataset was collected manually by clicking pictures of faulty fabrics and co
 
 # Problem Statement
 
-**To predict whether or not a candidate will be placed(or employed) on the basis of his/her Secondary %, Higher Secondary %, Undergraduate Degree %, MBA % and Employability Test %**
+**To predict and point out faults in fabrics from the images given to the model.**
 
 # The Methodology
 <img width="1030" alt="Screen Shot 2022-10-13 at 2 48 45 PM" src="https://user-images.githubusercontent.com/64483176/195681159-ff0d5d74-b394-4ffb-a924-ccc8ca211c48.png">
